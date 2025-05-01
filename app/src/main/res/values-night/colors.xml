@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary branding -->
+    <color name="colorPrimary">#FF8F00</color>
+    <color name="colorPrimaryVariant">#FFB74D</color>
+    <color name="colorSecondary">#F06292</color>
+
+    <!-- Backgrounds and surfaces -->
+    <color name="background">#121212</color>
+    <color name="surface">#1E1E1E</color>
+
+    <!-- Text colors -->
+    <color name="textPrimary">#FFFFFF</color>
+    <color name="textSecondary">#B0BEC5</color>
+
+    <!-- Product card, buttons, etc. -->
+    <color name="cardBackground">#1E1E1E</color>
+    <color name="buttonBackground">#FF8F00</color>
+    <color name="buttonText">#000000</color>
+
+    <color name="greenBackground">#81C784</color>
+    <color name ="blue">#ADD8E6</color>
+
+</resources>

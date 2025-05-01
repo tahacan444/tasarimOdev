@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name"> Uygulama </string>
+    <string name ="yazi1">Aranıyor...</string>
+    <string name="yazi2">şimdi teklif al</string>
+    <string name ="yazi3">Sınırlı Süreli Tekli</string>
+    <string name="yazi4"> 1.154,74  TL indirim </string>
+    <string name = "camera">Kamera</string>
+    <string name = "music"> Müzik</string>
+    <string name = "basket">sepet </string>
+    <string name = "gallery">Galeri</string>
+    <string name = "contacts">Kişiler</string>
+    <string name = "report">Rapor</string>
+    <string name = "location">Konum</string>
+    <string name = "calendar">Takvim</string>
+    <string name ="yazi5">Son Haberler</string>
+    <string name = "yazi6">Tümünü Gör</string>
+    <string name="yazi7">Ev</string>
+
+</resources>
