@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name"> Uygulama </string>
+    <string name="app_name">Mağaza Uygulaması </string>
     <string name ="yazi1">Aranıyor...</string>
     <string name="yazi2">şimdi teklif al</string>
     <string name ="yazi3">Sınırlı Süreli Tekli</string>
@@ -15,5 +15,9 @@
     <string name ="yazi5">Son Haberler</string>
     <string name = "yazi6">Tümünü Gör</string>
     <string name="yazi7">Ev</string>
+    <string name="yazi8">Ayarlar</string>
+    <string name="yazi9">Favoriler</string>
+    <string name="yazi10">Sepet</string>
+    <string name="yazi11">Profil</string>
 
 </resources>

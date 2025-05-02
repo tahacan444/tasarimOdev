@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">App</string>
+    <string name="app_name">Shop App</string>
     <string name ="yazi1">Searching for...</string>
     <string name ="yazi2" > Get Offer Now</string>
     <string name ="yazi3"> Limited Time Offer</string>
@@ -14,7 +14,11 @@
     <string name = "calendar">Calendar</string>
     <string name ="yazi5">LastNews</string>
     <string name = "yazi6">See all</string>
-    <string name="yazi7">Home</string>
+    <string name= "yazi7">Home</string>
+    <string name= "yazi8">Settings</string>
+    <string name= "yazi9"> Favorite</string>
+    <string name="yazi10">Card</string>
+    <string name="yazi11">Profile</string>
 
 
 
